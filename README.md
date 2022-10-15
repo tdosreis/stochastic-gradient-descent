@@ -1,3 +1,3 @@
 # stochastic-gradient-descent
 
-This repo was created to illustrate an old example of online learning where some of the weights might be fixed. The code is implemented from scratch to better illustrate the method, but is far from optimized. 
+Stochastic gradient descent is an iterative method for optimizing an objective function with suitable smoothness properties. The idea behind stochastic approximation can be traced back to the Robbins–Monro algorithm of the 1950s, and it has become become an important optimization method in machine learning.
